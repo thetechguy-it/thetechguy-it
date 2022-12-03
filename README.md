@@ -8,4 +8,4 @@ With automation you can increase:
 - **Security**
 
 Moreover, you can standardize your distributed network and reduce managing costs!     
-I'm a **beginner**, let's grow together| :wink:
+I'm a **beginner**, let's grow together! :wink:
