@@ -7,5 +7,5 @@ With network automation you can increase:
 - **Performance**
 - **Security**
 
-Moreover, you can standardize your distributed network and reduce managing costs!     
+Moreover, you can **standardize** your distributed network and **reduce managing costs**!     
 I'm a **beginner**, let's grow together! :wink:
