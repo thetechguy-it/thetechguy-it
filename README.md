@@ -9,5 +9,3 @@ With network automation you can increase:
 
 Moreover, you can **standardize** your distributed network and **reduce managing costs**!     
 I'm a **beginner**, let's grow together! :wink:
-
-VScode test
